@@ -27,4 +27,35 @@ que no existe en Java 8, y hubo que reemplazarlos y verificar la compilación co
 generar más de diez productos, porque la lista de nombres base se agotaba; lo resolví reutilizando los nombres con un número de variante.
 La tercera fue coordinar el trabajo en equipo: como el generador y la clase principal dependen de los mismos formatos de archivo,
 tuvimos que acordarlos antes de programar y organizar el código para no editar los mismos archivos al mismo tiempo. Por último, hubo
-que aclarar detalles del enunciado, como el nombre exacto que debe llevar la clase principal.
+que aclarar detalles del enunciado, como el nombre exacto que debe llevar la clase principal.-
+
+CONCLUSIÓN DEL PROYECTO POR MARLON RIAÑO 
+
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+
+Durante el desarrollo de este trabajo, aprendí a calcular el dinero total recaudado por cada vendedor y la cantidad de productos vendidos
+a partir de la información registrada en los archivo además, comprendí la importancia de validar los datos antes de procesarlos, identificando 
+posibles errores de formato, productos que no existen y valores negativos en las cantidades o los precios. Anexo a esto, reforcé mis conocimientos 
+de programación en Java, el manejo de condiciones y ciclos, y la importancia de desarrollar un programa organizado, confiable y capaz de manejar 
+información incorrecta sin afectar los resultados.
+
+2. POSIBLES APLICACIONES EN MI VIDA PROFESIONAL
+
+Actualmente me desempeño como analista de datos en el área comercial, donde trabajo con el manejo de datos, la creación de dashboards, el análisis estadístico
+y la identificación de oportunidades de mejora en las campañas de marketing también realizo análisis de perfiles de leads y clientes registrados, 
+con el objetivo de comprender mejor su comportamiento y contribuir a la toma de decisiones estratégicas.
+
+Los conocimientos adquiridos durante el desarrollo de este proyecto pueden aplicarse directamente a mi vida profesional, especialmente en el procesamiento, 
+la validación y la consolidación de información proveniente de diferentes archivos y fuentes de datos. Por ejemplo, la lectura y organización de archivos en Java
+me permitiría explorar alternativas para automatizar tareas repetitivas, integrar información comercial y reducir posibles errores en el tratamiento de los datos.
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO
+
+Una de las dificultades que tuve fue crear las validaciones necesarias para identificar errores en los archivos, como formatos incorrectos, productos que no existían 
+y cantidades o precios negativos para solucionar estos casos, fue necesario utilizar condiciones que permitieran detectar los datos incorrectos y evitar que 
+afectaran los resultados del programa. También entendí que es importante revisar bien la información de entrada, porque un dato mal registrado 
+puede generar errores durante la ejecución. A partir de estas dificultades, aprendí que no basta con hacer que el programa funcione, sino que también 
+es necesario realizar pruebas, verificar los resultados y asegurarme de que la información se procese correctamente.
+
+
+
