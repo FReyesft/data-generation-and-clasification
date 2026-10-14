@@ -58,4 +58,18 @@ puede generar errores durante la ejecución. A partir de estas dificultades, apr
 es necesario realizar pruebas, verificar los resultados y asegurarme de que la información se procese correctamente.
 
 
+CONCLUSIÓN DEL PROYECTO POR FREDDY GIOVANNY ROBAYO RODRIGUEZ
+
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+Durante el desarrollo del proyecto tuve la oportunidad de aprender desde cero muchos temas, temas sencillos como la instalación y uso básico de eclipse, también el uso de mis primeras líneas de código, apoyado por el material disponible del curso y las clases, cree mi primera cuenta en Github y aprendi como colaborar desde la herramienta con mis compañeros. son temas que parecen basicos pero que honetamente eran nuevos para mi.
+
+2. POSIBLES APLICACIONES EN MI VIDA PROFESIONAL
+
+Se abren muchas puertas, considero el limite lo pongo yo, la programación puede darme una opción practica de dar solución a alguna problemática u oportunidad que yo identifique en mi vida laboral, actualmente son analista de riesgos de operaciones de servicio al cliente, el uso de lenguaje de programación java me permitirá explorar como automatizar tareas repetitivas. 
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO
+
+Concuerdo con los compañeros coordinar el trabajo en equipo, no por temas de comunicación o mal ambiente laboral, personalmente soy nuevo y se me dificulto leer e interpretar los archivos y  organizar el código para no editar los mismos archivos al mismo tiempo como menciona Fernando; estos reportes dependían de los datos que calcula la parte de otro compañero.
+comunicándonos en el grupo de WhatsApp gestionamos las novedades.
+
 
