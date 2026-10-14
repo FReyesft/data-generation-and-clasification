@@ -1,0 +1,10 @@
+1;Arroz;11396
+2;Leche;11633
+3;Huevos;6864
+4;Pan;4846
+5;Aceite;4698
+6;Azúcar;8475
+7;Cafe;12918
+8;Pasta;3837
+9;Lentejas;3466
+10;Panela;9193

@@ -1,0 +1,10 @@
+CC;1000000000;Valentina;Rodríguez
+CC;1000000001;Andrés;Martínez
+CC;1000000002;Valentina;Torres
+CC;1000000003;Daniela;Pérez
+CC;1000000004;Daniela;Gómez
+CC;1000000005;Laura;Torres
+CC;1000000006;Juan;Gómez
+CC;1000000007;Diego;Pérez
+CC;1000000008;Santiago;Gómez
+CC;1000000009;Andrés;Martínez

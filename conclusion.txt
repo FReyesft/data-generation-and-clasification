@@ -1,0 +1,30 @@
+CONCLUSIÓN DEL PROYECTO POR FERNANDO REYEZ PINTO
+
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+
+Mi parte del proyecto fue el generador de archivos de prueba (GenerateInfoFiles) y la base de la clase principal. Aprendí a crear archivos
+planos en Java con datos pseudoaleatorios usando la clase Random, respetando un formato exacto separado por punto y coma para que otro programa
+pueda leerlos después. También aprendí a leer un archivo línea por línea y a reutilizar su contenido: el generador lee vendedores.txt para crear
+un archivo de ventas con el nombre y el documento reales de cada vendedor, y lee products.txt para que las ventas solo usen productos que existen.
+
+Aprendí a escribir código más robusto. Usé try-with-resources para que los archivos se cierren aunque ocurra un error, y agregué mensajes claros 
+de éxito o de falla que indican qué archivo causó el problema. Aprendí a probar casos límite, como pedir más productos que nombres disponibles,
+y a respetar las restricciones del enunciado, como usar Java 8 y mantener solo dos clases con método main. Además, aprendí
+a documentar con Javadoc y a usar buenos nombres de variables y constantes para que mis compañeros pudieran usar mis métodos sin descifrar el código.
+
+2. POSIBLES APLICACIONES EN MI VIDA PROFESIONAL
+
+Trabajo como desarrollador en una plataforma del sector logístico y de transporte,
+donde constantemente se procesan archivos y datos con formatos definidos. Lo aprendido me sirve para generar datos
+de prueba realistas, para leer y validar archivos de entrada antes de procesarlos y para manejar los errores de forma controlada, sin que
+el programa se caiga. También me sirve la práctica de documentar el código y de acordar con el equipo los formatos y las
+firmas de los métodos antes de programar, algo necesario cuando varias personas desarrollan partes distintas de un mismo sistema.
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO
+
+La primera dificultad fue la compatibilidad con Java 8. Parte del código usaba métodos de versiones más nuevas, como isBlank,
+que no existe en Java 8, y hubo que reemplazarlos y verificar la compilación con la versión exigida. La segunda fue un error al
+generar más de diez productos, porque la lista de nombres base se agotaba; lo resolví reutilizando los nombres con un número de variante.
+La tercera fue coordinar el trabajo en equipo: como el generador y la clase principal dependen de los mismos formatos de archivo,
+tuvimos que acordarlos antes de programar y organizar el código para no editar los mismos archivos al mismo tiempo. Por último, hubo
+que aclarar detalles del enunciado, como el nombre exacto que debe llevar la clase principal.
